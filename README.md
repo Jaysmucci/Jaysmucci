@@ -1,5 +1,5 @@
 # 💫About Me :
-# Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
+# Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">, I'm Jaysmucci 
 
 <p align="left"><b>Software Engineer</b> & I'm always Happy when my Hands are programming </p> 
 
