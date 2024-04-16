@@ -18,9 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 😂Random Dev Meme
-<img src="https://anjalisharma1234.github.io/Random-meme-generator/" width="512px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Jaysmucci&label=Profile%20views&pretty=true)](https://visitcount.itsvg.in)
