@@ -25,20 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-The results are 
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Jaysmuchi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jaysmuchi&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysmuchi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Jaysmucci&label=Profile%20views&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
