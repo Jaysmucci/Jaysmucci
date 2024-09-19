@@ -25,9 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-[![](https://visitcount.itsvg.in/api?id=Jaysmucci&label=Profile%20views&pretty=true)](https://visitcount.itsvg.in)
-
-  # 💰You can help me by Donating
+  ### 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jaysmucci) 
 
+[![](https://visitcount.itsvg.in/api?id=Jaysmucci&label=Profile%20views&pretty=true)](https://visitcount.itsvg.in)
