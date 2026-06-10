@@ -1,9 +1,4 @@
-
-# Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">, Human
-
-* ✉️ Send an [Email](mailto:jaysmuchi@gmail.com), Let's talk.
-  
-## Jude Okechukwu (Jays Mucci) - Nigerian Programmer and Reseacher with experience building production-grade software
+# Jude Okechukwu (Jays Mucci) - Nigerian Programmer and Reseacher with experience building production-grade software
 
 ```rust
 struct Programmer {
