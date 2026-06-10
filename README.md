@@ -1,4 +1,4 @@
-#### Jude Okechukwu (Jays Mucci) - Nigerian Programmer and Reseacher with experience building production-grade software
+#### Jude Okechukwu (Jays Mucci) - Seasoned Programmer and Reseacher with experience building robust software
 
 ```rust
 struct Programmer {
