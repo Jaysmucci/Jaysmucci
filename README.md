@@ -1,4 +1,4 @@
-#### Jude Okechukwu (Jays Mucci) - Seasoned Programmer and Reseacher with experience in Building Robust Software
+#### Jays Mucci - Seasoned Programmer and Reseacher with experience in Building Robust Software
 
 ```rust
 struct Programmer {
